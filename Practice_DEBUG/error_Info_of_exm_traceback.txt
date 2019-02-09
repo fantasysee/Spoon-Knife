@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.
+Traceback (most recent call last):
+  File "D:/02-Projects/Python/Practice_Auto/Practice_DEBUG/exm_traceback.py", line 9, in test_traceback
+    raise Exception('This is a test of error message.')
+Exception: This is a test of error message.

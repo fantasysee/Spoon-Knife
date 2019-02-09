@@ -1,0 +1,6 @@
+ 2019-02-08 03:55:22,773 - DEBUG - Start of program
+ 2019-02-08 03:55:22,773 - DEBUG - switch_lights of market_2nd :
+ 2019-02-08 03:55:22,773 - DEBUG -     {'ns': 'yellow', 'ew': 'green'}
+ 2019-02-08 04:00:24,762 - DEBUG - Start of program
+ 2019-02-08 04:00:24,762 - DEBUG - switch_lights of market_2nd :
+ 2019-02-08 04:00:24,762 - DEBUG -     {'ns': 'yellow', 'ew': 'green'}
